@@ -1,17 +1,20 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.brendaaguera.com" resolutions="1x" timestamp="1543353694087">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.brendaaguera.com" resolutions="1x" timestamp="1543952200626">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="319138973" ref="about:contact:index:portfolio:images"/>
     <file name="nomq_preview_master_a-master.css" crc="190959261" ref="about:contact:index:portfolio:images"/>
-    <file name="about.css" crc="129763906" ref="about"/>
-    <file name="nomq_about.css" crc="31475437" ref="about"/>
-    <file name="contact.css" crc="4079022118" ref="contact"/>
-    <file name="nomq_contact.css" crc="335507313" ref="contact"/>
+    <file name="about.css" crc="3935094530" ref="about"/>
+    <file name="nomq_about.css" crc="149653457" ref="about"/>
+    <file name="contact.css" crc="4171348919" ref="contact"/>
+    <file name="nomq_contact.css" crc="175417649" ref="contact"/>
     <file name="index.css" crc="16606880" ref="index"/>
     <file name="nomq_index.css" crc="281446172" ref="index"/>
     <file name="portfolio.css" crc="489082584" ref="portfolio"/>
     <file name="images.css" crc="33765577" ref="images"/>
     <file name="nomq_images.css" crc="420286886" ref="images"/>
+  </folder>
+  <folder name="assets">
+    <file name="brenda-final-resume.pdf" crc="4057844168" seo="true" mt="1539186285000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact:images"/>
@@ -121,9 +124,9 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="portfolio"/>
   </folder>
-  <file name="index.html" crc="239195542" seo="true" mt="1543344481428" redirect="true"/>
-  <file name="about.html" crc="3771538019" seo="true" mt="1543344481428" redirect="true"/>
-  <file name="portfolio.html" crc="326165678" seo="true" mt="1543349657471" redirect="true"/>
-  <file name="contact.html" crc="311620703" seo="true" mt="1543344481428" redirect="true"/>
-  <file name="images.html" crc="228407669" seo="true" mt="1543344481428" redirect="true"/>
+  <file name="index.html" crc="3855057044" seo="true" mt="1543344481428" redirect="true"/>
+  <file name="about.html" crc="529144108" seo="true" mt="1543950770505" redirect="true"/>
+  <file name="portfolio.html" crc="4077076041" seo="true" mt="1543349657471" redirect="true"/>
+  <file name="contact.html" crc="4125124836" seo="true" mt="1543950995265" redirect="true"/>
+  <file name="images.html" crc="306120975" seo="true" mt="1543344481428" redirect="true"/>
 </manifest>

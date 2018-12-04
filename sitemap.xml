@@ -31,27 +31,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.brendaaguera.com/about.html</loc>
-    <lastmod>2018-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.brendaaguera.com/images/logo%20black_1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.brendaaguera.com/images/facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.brendaaguera.com/images/instagram-png.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.brendaaguera.com/images/if_linkedin_279402.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.brendaaguera.com/images/pasted%20image%20511x762.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://www.brendaaguera.com/portfolio.html</loc>
     <lastmod>2018-11-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -94,8 +73,29 @@
     </image:image>
   </url>
   <url>
+    <loc>http://www.brendaaguera.com/about.html</loc>
+    <lastmod>2018-12-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.brendaaguera.com/images/logo%20black_1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.brendaaguera.com/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.brendaaguera.com/images/instagram-png.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.brendaaguera.com/images/if_linkedin_279402.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.brendaaguera.com/images/pasted%20image%20511x762.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://www.brendaaguera.com/contact.html</loc>
-    <lastmod>2018-11-27</lastmod>
+    <lastmod>2018-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -128,5 +128,11 @@
     <image:image>
       <image:loc>http://www.brendaaguera.com/images/if_linkedin_279402.png</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://www.brendaaguera.com/assets/brenda-final-resume.pdf</loc>
+    <lastmod>2018-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
